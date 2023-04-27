@@ -1,0 +1,13 @@
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.exe.config
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.exe
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.pdb
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csprojAssemblyReference.cache
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.Form1.resources
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.Properties.Resources.resources
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csproj.CopyComplete
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.exe
+C:\Users\Erdem\source\repos\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.pdb
