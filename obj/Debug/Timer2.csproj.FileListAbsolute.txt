@@ -1,0 +1,10 @@
+C:\Users\Erdem\source\repos\Timer2\Timer2\bin\Debug\Timer2.exe.config
+C:\Users\Erdem\source\repos\Timer2\Timer2\bin\Debug\Timer2.exe
+C:\Users\Erdem\source\repos\Timer2\Timer2\bin\Debug\Timer2.pdb
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.csprojAssemblyReference.cache
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.Form1.resources
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.Properties.Resources.resources
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.exe
+C:\Users\Erdem\source\repos\Timer2\Timer2\obj\Debug\Timer2.pdb
