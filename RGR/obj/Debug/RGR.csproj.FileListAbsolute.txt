@@ -1,0 +1,10 @@
+C:\Users\Erdem\source\repos\RGR\RGR\bin\Debug\RGR.exe.config
+C:\Users\Erdem\source\repos\RGR\RGR\bin\Debug\RGR.exe
+C:\Users\Erdem\source\repos\RGR\RGR\bin\Debug\RGR.pdb
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.csprojAssemblyReference.cache
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.Form1.resources
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.exe
+C:\Users\Erdem\source\repos\RGR\RGR\obj\Debug\RGR.pdb

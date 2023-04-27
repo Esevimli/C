@@ -1,0 +1,10 @@
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\bin\Debug\menustripvetoolstrip.exe.config
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\bin\Debug\menustripvetoolstrip.exe
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\bin\Debug\menustripvetoolstrip.pdb
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.csprojAssemblyReference.cache
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.Form1.resources
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.Properties.Resources.resources
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.exe
+C:\Users\Erdem\source\repos\menustripvetoolstrip\menustripvetoolstrip\obj\Debug\menustripvetoolstrip.pdb

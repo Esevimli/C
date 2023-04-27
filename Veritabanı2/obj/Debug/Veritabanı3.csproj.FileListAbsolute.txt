@@ -1,0 +1,9 @@
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\bin\Debug\Veritabanı3.exe.config
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\bin\Debug\Veritabanı3.exe
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\bin\Debug\Veritabanı3.pdb
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\obj\Debug\Veritabanı3.Form1.resources
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\obj\Debug\Veritabanı3.Properties.Resources.resources
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\obj\Debug\Veritabanı3.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\obj\Debug\Veritabanı3.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\obj\Debug\Veritabanı3.exe
+C:\Users\Erdem\source\repos\Veritabanı3\Veritabanı3\obj\Debug\Veritabanı3.pdb
